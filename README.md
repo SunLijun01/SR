@@ -1,5 +1,5 @@
 **Overall**  
-![](https://github.com/SunLijun01/SR/blob/main/fig2.pdf)
+![](https://github.com/SunLijun01/SR/blob/main/fig2.jpeg)
 **Requirements**  
 >CUDA 11.3  
 >Python 3.8.10  
