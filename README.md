@@ -6,4 +6,4 @@
 >basicsr 1.4.2
 
 **Acknowledgement**  
-Our work is built upon [BSRGAN]([https:/github.com/cszn/BSRGAN](https://github.com/cszn/BSRGAN)). Thanks to the author for sharing this awesome work!
+Our work is built upon [BSRGAN](https://github.com/cszn/BSRGAN). Thanks to the author for sharing this awesome work!
